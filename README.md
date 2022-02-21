@@ -185,3 +185,5 @@ export class AppModule { }
 ![rec](rec.png)
 
 ## Result:
+The webpage for mathematical calculation is created using angular.
+
